@@ -3,13 +3,15 @@
     margin: 0;
     padding: 0;
 }
+
 html {
-    
+    font-family: sans-serif;
 }
 
 body {
     background-color: black;
 }
+
 #search_bar {
     width: 90%;
     margin: 50px auto;
@@ -22,36 +24,58 @@ body {
     border-radius: 8px;
     overflow: hidden;
 }
+
 #search_btn {
     height: 100%;
     aspect-ratio: 1;
     border: 0;
     border-radius: 0;
 }
+
 #search_text {
     font-size: 1rem;
     padding: 0 20px;
 }
+
+#search_text:focus {
+    border: none;
+    outline: none;
+}
+
 .movie_s {
-    background-color: gray;
+    background-color: rgb(34, 34, 34);
+    border-radius: 20px;
+    outline: 3px solid blue;
+    box-shadow: 0 0 40px blue;
     width: 90%;
     max-width: 1000px;
     margin: 0 auto;
+    color: white;
+    margin-top: 50px;
 
     display: flex;
     flex-direction: row;
     overflow: hidden;
     height: 300px;
 }
+
 .fig {
-    aspect-ratio: 2 / 3;
     height: 100%;
-    background-color: red;
+    aspect-ratio: 2 / 3;
+
 }
+
+.fig img {
+    height: 100%;
+    max-width: 200px;
+}
+
 .info {
     width: 100%;
     padding: 30px;
 }
-.info h2 {
+
+.info p {
+    margin-top: 20px;
 
 }

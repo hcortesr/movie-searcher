@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="style_search.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+
+<body>
+
+    <form action="/search" method="get" id="search_bar">
+        <button type="submit" id="search_btn">
+            <i class='bx bx-search-alt bx-md'></i>
+        </button>
+        <input type="text" name="s" id="search_text">
+    </form>
+
+    <main>
+
+        <% for (let i=0; i < results.length; i++) { %>
+
+            <section class="movie_s">
+                <figure class="fig">
+                    <img src="<%= results[i].Poster %>" alt="">
+                </figure>
+                <div class="info">
+                    <h2 class="title">
+                        <%= results[i].Title %>
+                    </h2>
+                    <p>Year: <%= results[i].Year %>
+                    </p>
+                    <p>Type: <%= results[i].Type %>
+                    </p>
+
+                </div>
+
+
+
+
+
+            </section>
+            <% } %>
+
+
+
+    </main>
+
+</body>
+
+</html>l
