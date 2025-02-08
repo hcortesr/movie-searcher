@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    
+}
+
+body {
+    background-color: black;
+}
+#search_bar {
+    width: 90%;
+    margin: 50px auto;
+
+    height: 50px;
+    max-width: 500px;
+    background-color: gray;
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    border-radius: 8px;
+    overflow: hidden;
+}
+#search_btn {
+    height: 100%;
+    aspect-ratio: 1;
+    border: 0;
+    border-radius: 0;
+}
+#search_text {
+    font-size: 1rem;
+    padding: 0 20px;
+}
+.movie_s {
+    background-color: gray;
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    height: 300px;
+}
+.fig {
+    aspect-ratio: 2 / 3;
+    height: 100%;
+    background-color: red;
+}
+.info {
+    width: 100%;
+    padding: 30px;
+}
+.info h2 {
+
+}

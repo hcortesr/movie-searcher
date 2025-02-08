@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+html {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+body {
+    background-color: black;
+    color: white;
+    height: 160vh;
+}
+header {
+    width: 100%;
+    background-color: gray;
+    height: 600px;
+}
+.sub_h {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.h_fig {
+    width: 70%;
+    height: 100%;
+    background-image: linear-gradient(transparent 90%, black), url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcriticalhits.com.br%2Fwp-content%2Fuploads%2F2022%2F08%2Fstranger-things-4-temporada-netflix-foto-divulgacao-1.jpg&f=1&nofb=1&ipt=a7f98faa024d5f32eb3e496f29a2e07a10ccc334e2126810e62efc1cd4c43520&ipo=images');
+    margin-left: auto;
+    background-size: cover;
+    
+
+}
+
+.sub_h::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: linear-gradient(90deg, black 40%, transparent);
+    top: 0;
+    left: 0;
+}
+.h_info {
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    width: 100%;
+    max-width: 600px;
+}
+.h_title {
+    font-size: 5rem;
+}
+.h_content {
+    font-size: 1.2rem;
+}
+#search_bar {
+    width: 90%;
+    margin: 50px auto;
+
+    height: 50px;
+    max-width: 500px;
+    background-color: gray;
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    border-radius: 8px;
+    overflow: hidden;
+}
+#search_btn {
+    height: 100%;
+    aspect-ratio: 1;
+    border: 0;
+    border-radius: 0;
+}
+#search_text {
+    font-size: 1rem;
+    padding: 0 20px;
+}
+.sect_1 {
+    width: 100%;
+
+    overflow: scroll;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    
+    align-items: center;
+    gap: 50px;
+    padding: 20px;
+    
+    
+}
+.movie {
+    min-width: 200px;
+    aspect-ratio: 2 / 3;
+    background-color: rgb(103, 0, 0);
+    transition-duration: 0.05s;
+    
+}
+.movie:hover {
+    transform: scale(1.05);
+}
+#sect_2 {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.movie_w {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(107, 0, 0);    
+}
+.movie_w:hover {
+    transition-duration: 0.05s;
+    transform: scale(1.05);
+}
+.main_title {
+    margin-left: 50px;
+}

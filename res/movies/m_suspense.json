@@ -1,0 +1,225 @@
+[
+  {
+    "Title": "Se7en",
+    "Year": "1995",
+    "Rated": "R",
+    "Released": "22 Sep 1995",
+    "Runtime": "127 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "David Fincher",
+    "Writer": "Andrew Kevin Walker",
+    "Actors": "Brad Pitt, Morgan Freeman, Kevin Spacey, Gwyneth Paltrow",
+    "Plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 35 wins & 73 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzNjYyNzI3Ml5BMl5BanBnXkFtZTcwNzg1Mzk0Mw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.6/10"
+      }
+    ],
+    "Metascore": "65",
+    "imdbRating": "8.6",
+    "imdbVotes": "1,741,700",
+    "imdbID": "tt0114369",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "New Line Cinema",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Sixth Sense",
+    "Year": "1999",
+    "Rated": "PG-13",
+    "Released": "06 Aug 1999",
+    "Runtime": "107 min",
+    "Genre": "Drama, Mystery, Thriller",
+    "Director": "M. Night Shyamalan",
+    "Writer": "M. Night Shyamalan",
+    "Actors": "Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams",
+    "Plot": "A young boy who communicates with spirits that don't know they're dead seeks the help of a disheartened child psychologist.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 39 wins & 39 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxNzc4NTAzOF5BMl5BanBnXkFtZTcwMjY1NzA5Mg@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      }
+    ],
+    "Metascore": "64",
+    "imdbRating": "8.1",
+    "imdbVotes": "1,054,095",
+    "imdbID": "tt0167404",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Hollywood Pictures",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Gone Girl",
+    "Year": "2014",
+    "Rated": "R",
+    "Released": "03 Oct 2014",
+    "Runtime": "149 min",
+    "Genre": "Drama, Mystery, Thriller",
+    "Director": "David Fincher",
+    "Writer": "Gillian Flynn",
+    "Actors": "Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry",
+    "Plot": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Golden Globe. Another 27 wins & 232 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4Nzg0NjE3OF5BMl5BanBnXkFtZTgwMjc1MTk4MjE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      }
+    ],
+    "Metascore": "79",
+    "imdbRating": "8.1",
+    "imdbVotes": "1,068,789",
+    "imdbID": "tt2267998",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Shutter Island",
+    "Year": "2010",
+    "Rated": "R",
+    "Released": "19 Feb 2010",
+    "Runtime": "138 min",
+    "Genre": "Mystery, Thriller",
+    "Director": "Martin Scorsese",
+    "Writer": "Dennis Lehane",
+    "Actors": "Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley, Max von Sydow",
+    "Plot": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a mental institution.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Golden Globe. Another 13 wins & 92 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMzYzNzU2Nl5BMl5BanBnXkFtZTcwMzc0MTU5Mg@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      }
+    ],
+    "Metascore": "63",
+    "imdbRating": "8.1",
+    "imdbVotes": "1,004,215",
+    "imdbID": "tt1130884",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Prisoners",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "20 Sep 2013",
+    "Runtime": "153 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "Denis Villeneuve",
+    "Writer": "Aaron Guzikowski",
+    "Actors": "Hugh Jackman, Jake Gyllenhaal, Viola Davis, Maria Bello",
+    "Plot": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 51 wins & 126 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzNTI2ODg4Nl5BMl5BanBnXkFtZTcwMjcxMjM3Nw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      }
+    ],
+    "Metascore": "81",
+    "imdbRating": "8.1",
+    "imdbVotes": "827,110",
+    "imdbID": "tt1392214",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Prestige",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "20 Oct 2006",
+    "Runtime": "130 min",
+    "Genre": "Drama, Mystery, Sci-Fi",
+    "Director": "Christopher Nolan",
+    "Writer": "Jonathan Nolan, Christopher Nolan",
+    "Actors": "Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine",
+    "Plot": "A mysterious story of two magicians whose intense rivalry leads them to perform increasingly dangerous tricks to try and outdo each other.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 2 Oscars. Another 64 wins & 137 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2MjQzMzQwN15BMl5BanBnXkFtZTcwNzk2MjgwMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      }
+    ],
+    "Metascore": "66",
+    "imdbRating": "8.5",
+    "imdbVotes": "1,076,029",
+    "imdbID": "tt0482571",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Memento",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "11 Oct 2000",
+    "Runtime": "113 min",
+    "Genre": "Mystery, Thriller",
+    "Director": "Christopher Nolan",
+    "Writer": "Christopher Nolan",
+    "Actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior",
+    "Plot": "A man with short-term memory loss attempts to track down his wife's murderer.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 62 wins & 28 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMwMzg3ODMyOV5BMl5BanBnXkFtZTcwMjY0ODgwMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "8.4",
+    "imdbVotes": "1,017,800",
+    "imdbID": "tt0209144",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+  }]
